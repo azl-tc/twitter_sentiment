@@ -1,2 +1,2 @@
 # twitter_sentiment
-NLP-based App on Twitter by Keywords and Topics
+NLP-based Insight on Twitter by Keywords and Topics
